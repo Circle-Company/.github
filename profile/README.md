@@ -1,12 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/Circle-Company/Circle-App" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Circle-Company/.github/blob/017be356b03006489d7ae887a961f87f381dc681/profile/App%20Logo%20Dark.png">
+    <img alt="Circle Logo" src="https://github.com/Circle-Company/.github/blob/017be356b03006489d7ae887a961f87f381dc681/profile/App%20Logo%20Light.png" width="530"/>
+  </picture>
+  </a>
+</div>
 
-<!--
+<h1 align="center">Create Moments and Share Memories</h1>
 
-**Here are some ideas to get you started:**
+<div align="center">
+Social Network to share your favorite moments day with your friends.
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <p align="center">
+    <br />
+    <a href="https://github.com/Circle-Company/Circle-App" rel="dofollow"><strong>Visit our main GitHub Repository »</strong></a>
+    <br />
+  </p>
