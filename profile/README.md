@@ -61,18 +61,18 @@ Para contribuir:
 1. Faça um fork do projeto
 2. Crie uma branch: `git checkout -b minha-feature`
 3. Faça suas alterações
-4. Envie um PR com uma descrição clara
+4. Envie um PR com uma descrição clara (sempre implemente testes no seu pull request)
 
 ---
 
 ### 📎 Links Úteis
 
-- [🔗 Repositório Principal](https://github.com/Circle-Company/Circle-App)
-- [🧠 Roadmap no GitHub Projects](https://github.com/Circle-Company/Circle-App/projects)
-- [📱 Protótipo no Figma (se tiver)](https://figma.com/...)
+- [🔗 Repositório Principal (Circle App)](https://github.com/Circle-Company/Circle-App)
+- [🔗 Repositório do Sistema (Circle System)](https://github.com/Circle-Company/Circle-System)
+- [📱 Protótipo no Figma](https://figma.com/...)
 
 ---
 
 <div align="center">
-  <strong>Feito com 💜 por desenvolvedores apaixonados por redes sociais!</strong>
+    <strong>Feito com amor no Brasil 💚💛</strong>
 </div>
