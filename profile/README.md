@@ -16,14 +16,8 @@
 </div>
 
 ### ✨ Sobre o Projeto
-
-O **Circle App** é um novo conceito de rede social, voltada para o público jovem os usuários podem:
-
-- Criar **Momentos** especiais e compartilhar com amigos
-- Agrupar Momentos em **Memórias** para serem exibidas no perfil
-- Curtir, comentar e seguir amigos
-
-Nosso objetivo é criar um ambiente seguro, bonito e fácil de usar, onde compartilhar o dia a dia seja simples e divertido.
+Nossa missão é criar uma rede social realmente diferente, intuitiva de usar, simples de criar, e divertido de assistir e acompanhar amigos. Onde compartilhar o dia a dia seja uma atividade leve.
+E acima de tudo com autenticidade, trazendo um visual inovador, funções diferentes, e tudo isso Open Source.
 
 ---
 
@@ -53,7 +47,7 @@ Nosso objetivo é criar um ambiente seguro, bonito e fácil de usar, onde compar
 
 ---
 
-## 🤝 Contribuindo
+### 🤝 Contribuindo
 
 Estamos procurando colaboradores! Se você é dev mobile, backend, designer ou tem boas ideias, será muito bem-vindo 💜
 
@@ -71,7 +65,7 @@ Para contribuir:
 
 ---
 
-## 📎 Links Úteis
+### 📎 Links Úteis
 
 - [🔗 Repositório Principal](https://github.com/Circle-Company/Circle-App)
 - [🧠 Roadmap no GitHub Projects](https://github.com/Circle-Company/Circle-App/projects)
