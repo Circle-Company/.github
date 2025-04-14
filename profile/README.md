@@ -43,27 +43,13 @@ Nosso objetivo é criar um ambiente seguro, bonito e fácil de usar, onde compar
 
 | Etapa | Status |
 |-------|--------|
-| Autenticação com username e senha | ✅ Concluído |
-| Criação de momentos e memórias | ✅ Concluído |
-| Curtidas e comentários | ✅ Concluído |
-| Página de perfil público | ✅ Concluído |
-| Notificações em tempo real | 🛠️ Em desenvolvimento |
-| Feed com sistema de recomendação | 🧠 Em planejamento |
-| Compartilhamento externo de memórias | 🔜 Em breve |
-| Lançamento beta na Play Store | 🔜 Em breve |
+| Notificações em tempo real | ✅ Concluído |
+| Lançamento beta na Play Store | ✅ Concluído |
+| Câmera interna do App | ⚙️ Em Desenvolvimento |
+| Feed com sistema de recomendação | ⚙️ Em Desenvolvimento |
+| Sistema de Pesquisa de Moments | 🧠 Em planejamento |
+| Compartilhamento externo de moments | 🔜 Em breve |
 
----
-
-## 💻 Principais Tecnologias Utilizadas
-
-- **React Native** + TypeScript
-- **React Navigation** para rotas
-- **React Query** para gerenciamento de dados
-- **Firebase** para notificações
-- **Node.js** + Express na API
-- **
-- **MySQL** + Sequelize para o banco de dados
-- **Docker** para ambiente de desenvolvimento
 
 ---
 
