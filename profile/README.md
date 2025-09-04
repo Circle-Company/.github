@@ -7,8 +7,6 @@
   </a>
 </div>
 
-<h1 align="center">Crie momentos e Compartilhe Memórias</h1>
-
 <div align="center">
   <a href="https://github.com/Circle-Company/Circle-App" target="_blank">
     <img alt="Circle Banner" src="https://github.com/Circle-Company/.github/blob/eb5113ac18899f6e96f6e6791ef2a1e43091affe/profile/Circle%20App%20Presentation%20Banner.png" width="730"/>
@@ -48,15 +46,6 @@ E acima de tudo com autenticidade, trazendo um visual inovador, funções difere
 ---
 
 ### 🤝 Contribuindo
-
-Estamos procurando colaboradores! Se você é dev mobile, backend, designer ou tem boas ideias, será muito bem-vindo 💜
-
-<div align="center">
-  <a href="https://github.com/Circle-Company/Circle-App" target="_blank">
-    <img alt="Procurando Contribuidores" src="https://github.com/tiagosavioli/tiagosavioli/blob/bf6bb095107d902c2fba9d4e65ac989c7389768b/Procurando%20por%20Contribu%C3%ADdores.png" width="730"/>
-  </a>
-</div>
-
 Para contribuir:
 1. Faça um fork do projeto
 2. Crie uma branch: `git checkout -b minha-feature`
