@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Circle-Company/Circle-App" target="_blank">
-    <img alt="Circle Banner" src="https://github.com/Circle-Company/.github/blob/82aaa31d9b0ef280ef32d911292d007288e96a60/profile/PRESENTATION-BANNER-V2.png" width="730"/>
+    <img alt="Circle Banner" src="https://github.com/Circle-Company/.github/blob/bec79f345b45f6a987ed557a1c7b67871eaeb426/profile/PRESENTATION-BANNER-V3.png" width="730"/>
   </a>
 </div>
 
