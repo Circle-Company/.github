@@ -1,15 +1,6 @@
 <div align="center">
   <a href="https://github.com/Circle-Company/Circle-App" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Circle-Company/.github/blob/017be356b03006489d7ae887a961f87f381dc681/profile/App%20Logo%20Dark.png">
-      <img alt="Circle Logo" src="https://github.com/Circle-Company/.github/blob/017be356b03006489d7ae887a961f87f381dc681/profile/App%20Logo%20Light.png" width="330"/>
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Circle-Company/Circle-App" target="_blank">
-    <img alt="Circle Banner" src="https://github.com/Circle-Company/.github/blob/eb5113ac18899f6e96f6e6791ef2a1e43091affe/profile/Circle%20App%20Presentation%20Banner.png" width="730"/>
+    <img alt="Circle Banner" src="https://github.com/Circle-Company/.github/blob/82aaa31d9b0ef280ef32d911292d007288e96a60/profile/PRESENTATION-BANNER-V2.png" width="730"/>
   </a>
 </div>
 
